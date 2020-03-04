@@ -44,31 +44,31 @@ To use Node.js and JavaScript to create a command line node app that grabs data 
 
 1. Open up the terminal or Git Bash window and navigate to the folder/directory for `LIRI Bot`, or liri-node-app, where the file `liri.js` is stored. 
 
-![Git Bash window showing Liri Bot directory with liri.js file](/images/LIRI-Bot-1.png)
+![Git Bash window showing Liri Bot directory with liri.js file](images/LIRI-Bot-1.PNG)
 
 2. Type the command below to see the top 10 upcoming concert locations and dates for a specific artist.
 
 ```node liri.js concert-this <artist/band name here>```
 
-![Git Bash window showing upcoming concert info for 'Taylor Swift'](/images/LIRI-Bot-2.png)
+![Git Bash window showing upcoming concert info for 'Taylor Swift'](images/LIRI-Bot-2.PNG)
 
 3. Type the command below to see the top 5 songs on Spotify associated with your search. 
 
 ```node liri.js spotify-this-song <song name here>```
 
-![Git Bash window showing Spotify songs associated with 'Lover'](/images/LIRI-Bot-3.png)
+![Git Bash window showing Spotify songs associated with 'Lover'](images/LIRI-Bot-3.PNG)
 
 4. Type the command below to see information pulled from the OMDB API about a specific movie. 
 
 ```node liri.js movie-this <movie name here>```
 
-![Git Bash window showing movie info for 'John Wick'](/images/LIRI-Bot-4.png)
+![Git Bash window showing movie info for 'John Wick'](images/LIRI-Bot-4.PNG)
 
 5. Type the command below and the program will read the `random.txt` file and run the command and search it specifies. 
 
 ```node liri.js do-what-it-says```
 
-![Git Bash window showing the do-what-it-says command running 'spotify-this-song, I Want it That Way'](/images/LIRI-Bot-5.png)
+![Git Bash window showing the do-what-it-says command running 'spotify-this-song, I Want it That Way'](images/LIRI-Bot-5.PNG)
 
 ## License
 
